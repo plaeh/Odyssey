@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  opening_blurb_hook: MyText
+  closing_blurb: MyText
+  image: MyString
+  name: MyString
+
+two:
+  opening_blurb_hook: MyText
+  closing_blurb: MyText
+  image: MyString
+  name: MyString
